@@ -14,7 +14,7 @@ Or check out my [Youtube Video](https://www.youtube.com/watch?v=vGj3_TiDBWI&list
 
 
 ## 📜 License
-This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
+This repository is licensed under the GNU General Public License v3.0.
 
 ## Acknowledgments
 - Thanks to Johan Gielis for discovering the concept of SuperShapes and making it available to the world.
